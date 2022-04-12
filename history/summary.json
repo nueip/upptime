@@ -58,17 +58,17 @@
     "url": "https://bi.nueip.com",
     "icon": "https://cloud.nueip.com/assets/img/logo/bi_logo_service.svg",
     "slug": "nu-ei-p-bi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 215,
-    "timeWeek": 238,
-    "timeMonth": 242,
-    "timeYear": 242,
+    "time": 244,
+    "timeDay": 279,
+    "timeWeek": 251,
+    "timeMonth": 245,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   }
 ]
