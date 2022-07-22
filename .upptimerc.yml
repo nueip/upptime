@@ -15,6 +15,9 @@ sites:
     icon: https://cloud.nueip.com/assets/img/logo/bi_logo_service.svg
     url: https://bi.nueip.com
 
+i18n:
+  footer:
+
 status-website:
   name: Status Dashboard
   cname: status.nueip.com
