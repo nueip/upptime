@@ -16,7 +16,7 @@ sites:
     url: https://bi.nueip.com
 
 i18n:
-  footer:
+  footer: ""
 
 status-website:
   name: Status Dashboard
