@@ -15,6 +15,9 @@ sites:
     icon: https://cloud.nueip.com/assets/img/logo/bi_logo_service.svg
     url: https://bi.nueip.com
 
+workflowSchedule:
+  uptime: "*/5 * * * *"
+
 i18n:
   footer: ""
 
