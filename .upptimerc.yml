@@ -17,6 +17,7 @@ sites:
 
 workflowSchedule:
   uptime: "*/5 * * * *"
+  responseTime: "*/10 * * * *"
 
 i18n:
   footer: ""
