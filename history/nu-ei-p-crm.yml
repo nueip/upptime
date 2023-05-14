@@ -1,7 +1,7 @@
 url: https://crm.nueip.com
-status: down
-code: 502
-responseTime: 4726
-lastUpdated: 2023-05-14T17:14:57.061Z
+status: up
+code: 200
+responseTime: 181
+lastUpdated: 2023-05-14T17:18:41.976Z
 startTime: Thu Feb 10 2022 10:29:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
